@@ -1,0 +1,2 @@
+D:\Projects\loc8r\obj\Debug\Loc8r.njsproj.CoreCompileInputs.cache
+D:\Projects\loc8r\bin\Microsoft.NodejsTools.WebRole.dll
